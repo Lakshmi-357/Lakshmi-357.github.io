@@ -15,7 +15,7 @@ First thing’s first: let’s get that remote desktop going. No more waiting fo
    `rdp.labs.eait.uq.edu.auto`
 3. Click **Connect** and voilà! You’re now one step closer to remote university glory.
 
-![My Image](./remote.png)
+![My Image](images/remote.png)
 ---
 
 ## Step 2: Log In and Pick Your Lab (Choose Wisely)

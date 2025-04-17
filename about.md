@@ -1,6 +1,6 @@
 # About
 
-![My Image](my_image.jpeg)
+![My Image](images/my_image.jpeg)
 
 
 Hi! I'm Lakshmi 👋  

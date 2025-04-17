@@ -1,6 +1,7 @@
 # About
 
-![My Image](./me.jpeg)
+![Alt text](your-image.jpeg)
+
 
 Hi! I'm Lakshmi 👋  
 I'm currently exploring deep learning and AI through the fastai course.  

@@ -1,6 +1,6 @@
 # About
 
-![Alt text](your-image.jpeg)
+![My Image](WhatsApp Image 2025-01-20 at 08.44.56.jpeg)
 
 
 Hi! I'm Lakshmi 👋  
